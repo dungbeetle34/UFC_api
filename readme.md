@@ -1,4 +1,5 @@
 **UFC API**
+
 An API that returns information about current fighters across all weight divisions. 
 The only supported format is JSON
 The data is scraped from 'https://www.itnwwe.com/mma/ufc-fighters-roster/' and put into a SQLITE3 database
